@@ -1,5 +1,8 @@
 
             /* Общий серый фон с сеткой */
+            html {
+                  all: unset;      
+            }
             body {
                 all: unset;
                 display: block;
