@@ -17,6 +17,11 @@
             div {
                 margin: 0;
             }
+            a {
+                cursor: pointer;
+                text-decoration: underline;
+            }
+
             .status {
                 display: block;
                 margin-block-start: 1em;
