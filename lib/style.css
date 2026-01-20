@@ -1,6 +1,9 @@
 
             /* Общий серый фон с сеткой */
             body {
+                all: unset;
+                display: block;
+
                 background-color: #f0f0f0;
                 background-image: linear-gradient(0deg, rgba(200, 200, 200, 0.3) 1px, transparent 1px),
                                   linear-gradient(90deg, rgba(200, 200, 200, 0.3) 1px, transparent 1px);
