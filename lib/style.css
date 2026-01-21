@@ -17,6 +17,7 @@
             div {
                 margin: 0;
             }
+            /* Для тильды */
             a {
                 cursor: pointer;
                 text-decoration: underline;
